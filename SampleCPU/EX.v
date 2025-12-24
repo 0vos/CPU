@@ -1,4 +1,5 @@
 `include "lib/defines.vh"
+//////////////
 module EX(
     input wire clk,
     input wire rst,
